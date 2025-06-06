@@ -1,6 +1,6 @@
 # odin-recipes
 First Project for Foundations Course in TOP
 
--first recipe done
--second recipe
--third recipe
+<p>-first recipe done</p>
+<p>-second recipe</p>
+<p>-third recipe</p>
